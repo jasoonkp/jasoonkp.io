@@ -1,25 +1,39 @@
+html {
 
+  background-color: black;
+
+
+}
 
 h1 {
+    color:white;
     font-family: "Victor Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
     font-size: 300%;
+    text-align: center;
   }
 
-  h3 {
-    font-family: "Victor Mono", monospace;
+  h2 {
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-optical-sizing: auto;
-    font-weight: 600;
-    font-style: normal;
-    font-size: 100%;
+    font-weight: 1;
+
+    font-size: 200%;
+    text-align: center;
   }
 
   h3 {
+    color:white;
     font-family: "Victor Mono", monospace;
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: bold;
     font-size: 150%;
+  }
+
+  img {
+    image-resolution: 200px;
   }
